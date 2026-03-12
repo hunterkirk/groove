@@ -1,5 +1,5 @@
 name: groove
-version: 1.0.2
+version: 1.0.4
 
 authors:
   - Hunter Kirk 
@@ -10,7 +10,6 @@ targets:
 
 crystal: '>= 1.19.1'
 
-license: MIT
 
 dependencies:
   ncurses:
