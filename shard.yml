@@ -1,0 +1,17 @@
+name: groove
+version: 0.1.0
+
+authors:
+  - William Kirk <wkirk@local.lan>
+
+targets:
+  groove:
+    main: src/groove.cr
+
+crystal: '>= 1.19.1'
+
+license: MIT
+
+dependencies:
+  ncurses:
+    github: SamualLB/ncurses
