@@ -2,8 +2,8 @@ name: groove
 version: 0.1.0
 
 authors:
-  - William Kirk <wkirk@local.lan>
-
+  - Hunter Kirk 
+  
 targets:
   groove:
     main: src/groove.cr
